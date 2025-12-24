@@ -14,13 +14,11 @@ An intelligent, IoT-based solution for automated indoor gardening. This system m
 
 | Component | Description | Where To Buy |
 | :--- | :--- | :--- |
-| **ESP32** | The main microcontroller with built-in WiFi/Bluetooth. | Bluetooth. |
-| **Capacitive Moisture Sensor** | Measures soil water content (corrosion resistant). | Bluetooth. |
-| **DHT11 / DHT22** | Digital sensor for measuring temperature and humidity. | Bluetooth. |
-| **Relay Module (5V)** | Switches the high-current water pump on/off. | Bluetooth. |
-| **Water Pump** | Mini submersible pump (3V-5V). | Bluetooth. |
-| **LDR** | Light Dependent Resistor to monitor sunlight exposure. | Bluetooth. |
-| **Power Supply** | 5V Micro USB or external battery pack. | Bluetooth. |
+| **Capacitive Moisture Sensor** | Measures soil water content (corrosion resistant). | **[Buy Here]( https://s.click.aliexpress.com/e/_c37kgVDT)** |
+| **DHT11 / DHT22** | Digital sensor for measuring temperature and humidity. | **[Buy Here](https://s.click.aliexpress.com/e/_c403Ownx)** |
+| **Relay Module (5V)** | Switches the high-current water pump on/off. | **[Buy Here](https://s.click.aliexpress.com/e/_c4KUoZTX)** |
+| **Water Pump** | Mini submersible pump (3V-5V). | **[Buy Here](https://s.click.aliexpress.com/e/_c2vYp8eD)** |
+| **LDR** | Light Dependent Resistor to monitor sunlight exposure. | **[Buy Here](https://s.click.aliexpress.com/e/_c4s2lNgv)** |
 
 ## 🔌 Circuit Diagram
 
