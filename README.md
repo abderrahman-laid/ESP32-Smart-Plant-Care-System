@@ -68,7 +68,7 @@ Feel free to check the [issues page]([https://github.com/your-abderrahman-laid/E
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed free meaning you can use it as you wish.
 
 ---
 **Made with ❤️ by [Abderrahmane Laid](https://github.com/abderrahman-laid)**
