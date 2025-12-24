@@ -44,7 +44,7 @@ This project is developed using the **Arduino IDE**.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/ESP32-Smart-Plant-Care.git
+    git clone https://github.com/abderrahman-laid/ESP32-Smart-Plant-Care-System.git
     ```
 2.  **Circuit Assembly:** Follow the pinout description to connect your sensors and pump to the ESP32.
 3.  **Configure Credentials:** Open `SmartPlant.ino` and update your WiFi SSID, Password, and API tokens.
