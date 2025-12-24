@@ -61,7 +61,7 @@ Once powered on, the system will:
 
 ## 📷 Gallery
 
-*(Add photos of your circuit assembly and the system in action here)*
+![tanks levels](Read_me_Media/water_tanks_states.png)
 
 ## 🤝 Contributing
 
