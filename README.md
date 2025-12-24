@@ -61,7 +61,7 @@ Once powered on, the system will:
 
 ## 📷 Gallery
 
-![tanks levels](Read_me_Media/water_tanks_states.png)
+![Schematics](ReadMe_Media/sch.png)
 
 ## 🤝 Contributing
 
