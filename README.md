@@ -47,7 +47,7 @@ This project is developed using the **Arduino IDE**.
     git clone https://github.com/abderrahman-laid/ESP32-Smart-Plant-Care-System.git
     ```
 2.  **Circuit Assembly:** Follow the pinout description to connect your sensors and pump to the ESP32.
-3.  **Configure Credentials:** Open `SmartPlant.ino` and update your WiFi SSID, Password, and API tokens.
+3.  **Configure Credentials:** Open `ESP32-Smart-Plant-Care-System.ino` and update your WiFi SSID, Password, and API tokens.
 4.  **Upload Code:** Connect your ESP32 to the PC and upload the code via Arduino IDE.
 5.  **Calibrate:** Test the moisture sensor in dry air vs. a cup of water to set your `wet` and `dry` threshold values in the code.
 
