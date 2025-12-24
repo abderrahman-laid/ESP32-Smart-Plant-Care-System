@@ -66,7 +66,7 @@ Once powered on, the system will:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/your-username/ESP32-Smart-Plant-Care/issues).
+Feel free to check the [issues page]([https://github.com/your-abderrahman-laid/ESP32-Smart-Plant-Care/issues](https://github.com/abderrahman-laid/ESP32-Smart-Plant-Care-System/issues)).
 
 ## 📝 License
 
