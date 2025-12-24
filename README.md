@@ -59,7 +59,7 @@ Once powered on, the system will:
 3.  Turn on the pump if `Moisture < Threshold`.
 4.  Send data packets to the cloud dashboard.
 
-## 📷 Gallery
+## 📷 Wiring Diagram
 
 ![Schematics](ReadMe_Media/sch.png)
 
